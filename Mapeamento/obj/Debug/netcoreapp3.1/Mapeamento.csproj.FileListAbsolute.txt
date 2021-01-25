@@ -1,0 +1,16 @@
+C:\_test\Mapeamento\Mapeamento\bin\Debug\netcoreapp3.1\Mapeamento.exe
+C:\_test\Mapeamento\Mapeamento\bin\Debug\netcoreapp3.1\Mapeamento.deps.json
+C:\_test\Mapeamento\Mapeamento\bin\Debug\netcoreapp3.1\Mapeamento.runtimeconfig.json
+C:\_test\Mapeamento\Mapeamento\bin\Debug\netcoreapp3.1\Mapeamento.runtimeconfig.dev.json
+C:\_test\Mapeamento\Mapeamento\bin\Debug\netcoreapp3.1\Mapeamento.dll
+C:\_test\Mapeamento\Mapeamento\bin\Debug\netcoreapp3.1\Mapeamento.pdb
+C:\_test\Mapeamento\Mapeamento\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\_test\Mapeamento\Mapeamento\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\_test\Mapeamento\Mapeamento\obj\Debug\netcoreapp3.1\Mapeamento.csprojAssemblyReference.cache
+C:\_test\Mapeamento\Mapeamento\obj\Debug\netcoreapp3.1\Mapeamento.AssemblyInfoInputs.cache
+C:\_test\Mapeamento\Mapeamento\obj\Debug\netcoreapp3.1\Mapeamento.AssemblyInfo.cs
+C:\_test\Mapeamento\Mapeamento\obj\Debug\netcoreapp3.1\Mapeamento.csproj.CoreCompileInputs.cache
+C:\_test\Mapeamento\Mapeamento\obj\Debug\netcoreapp3.1\Mapeamento.csproj.CopyComplete
+C:\_test\Mapeamento\Mapeamento\obj\Debug\netcoreapp3.1\Mapeamento.dll
+C:\_test\Mapeamento\Mapeamento\obj\Debug\netcoreapp3.1\Mapeamento.pdb
+C:\_test\Mapeamento\Mapeamento\obj\Debug\netcoreapp3.1\Mapeamento.genruntimeconfig.cache
